@@ -1,0 +1,21 @@
+{
+  "name": "@albertoielpo/bigmap-linux-x64-musl",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "bigmap.linux-x64-musl.node",
+  "files": [
+    "bigmap.linux-x64-musl.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "libc": [
+    "musl"
+  ]
+}

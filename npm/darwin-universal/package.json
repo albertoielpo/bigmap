@@ -1,0 +1,15 @@
+{
+  "name": "@albertoielpo/bigmap-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "bigmap.darwin-universal.node",
+  "files": [
+    "bigmap.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
